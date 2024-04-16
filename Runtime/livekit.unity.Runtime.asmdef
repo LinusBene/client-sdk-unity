@@ -3,7 +3,6 @@
     "rootNamespace": "LiveKit",
     "references": [],
     "includePlatforms": [
-    "includePlatforms": [
         "WindowsStandalone32",
         "WindowsStandalone64",
         "LinuxStandalone64"
