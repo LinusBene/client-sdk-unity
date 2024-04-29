@@ -3,6 +3,8 @@
     "rootNamespace": "LiveKit",
     "references": [],
     "includePlatforms": [
+	"Editor",
+        "Android",
         "WindowsStandalone32",
         "WindowsStandalone64",
         "LinuxStandalone64"
